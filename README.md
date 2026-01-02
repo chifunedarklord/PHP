@@ -1,4 +1,3 @@
-# HƯỚNG DẪN SỬ DỤNG FILE TRÊN GITHUB
 
 ## 1. Thông tin sinh viên
 - **Họ và tên:** Bùi Đức Đoàn  
