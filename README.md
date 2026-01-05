@@ -73,4 +73,3 @@ Người dùng có thể xem mã nguồn trực tiếp trên GitHub hoặc tải
 - Nếu có lỗi, kiểm tra lại:
   - Tên folder dự án
   - Cổng Apache (mặc định là 80)
-  - File `index.php` hoặc `index.html` trong thư mục dự án
