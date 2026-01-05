@@ -26,17 +26,8 @@ Người dùng có thể xem mã nguồn trực tiếp trên GitHub hoặc tải
 ---
 
 ## 4. Cách chạy file sau khi tải về
-(Tùy theo loại bài tập)
-
 - **HTML/PHP:**  
   Mở bằng VS Code, chạy bằng trình duyệt hoặc localhost (XAMPP)
-
-- **C# WinForms:**  
-  Mở file `.sln` bằng Visual Studio → Run
-
-- **Java/Android:**  
-  Mở bằng Android Studio hoặc IDE phù hợp
-
 ---
 ## HƯỚNG DẪN CHẠY DỰ ÁN BẰNG XAMPP
 
