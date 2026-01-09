@@ -6,12 +6,7 @@
 
 ---
 
-## 2. Giới thiệu
-Repository này dùng để lưu trữ và chia sẻ các file/bài tập đã được upload lên GitHub.  
-Người dùng có thể xem mã nguồn trực tiếp trên GitHub hoặc tải về máy để chạy và chỉnh sửa.
----
-
-## 3. Cách tải file / folder về máy
+## 2. Cách tải file / folder về máy
 
 ### 🔹 Cách 1: Tải toàn bộ project
 1. Nhấn **Code**
@@ -25,7 +20,7 @@ Người dùng có thể xem mã nguồn trực tiếp trên GitHub hoặc tải
 
 ---
 
-## 4. Cách chạy file sau khi tải về
+## 3. Cách chạy file sau khi tải về
 - **HTML/PHP:**  
   Mở bằng VS Code, chạy bằng trình duyệt hoặc localhost (XAMPP)
 ---
